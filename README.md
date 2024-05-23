@@ -1,8 +1,15 @@
 # Criando um Banco Digital com Java e Orientação a Objetos
 
-## 02/08/2021 - [Mentoria #1: Tire Suas Dúvidas Sobre Orientação a Objetos](https://www.youtube.com/watch?v=YS6ouOhkyNI)
+[![Java Version](https://img.shields.io/badge/jdk-21.0.3-orange.svg)](https://www.python.org/downloads/)
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/FrancaPh)
 
-Desafio: Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário:
+## Descrição
+Esse projeto foi criada como desafio de um lab durante um bootcamp da DIO com parceria do Santander, Santander 2024 - Backend com Java. O desafio consiste na criação de um código em Java, que replique o formato de contas presentes nos bancos com contas correntes e poupanças
+
+## Banco Digital - Desafio
+Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário:
 “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”
 
 ### Abstração
