@@ -6,7 +6,7 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/FrancaPh)
 
 ## Descrição
-Esse projeto foi criada como desafio de um lab durante um bootcampda da **[DIO](https://web.dio.me)** com parceria do Santander, [Santander 2024 - Backend com Java](https://web.dio.me/track/santander-2024-backend-com-java). O desafio consiste na criação de um código em Java, que replique o formato de contas presentes nos bancos com contas correntes e poupanças
+Esse projeto foi criado como desafio de um lab durante um bootcampda da **[DIO](https://web.dio.me)** com parceria do Santander, [Santander 2024 - Backend com Java](https://web.dio.me/track/santander-2024-backend-com-java). O desafio consiste na criação de um código em Java, que replique o formato de contas presentes nos bancos com contas correntes e poupanças
 
 ## Banco Digital - Desafio
 Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário:
